@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kmaynardatvri
+- 👋 Hi, I’m Ken Maynard @kmaynardatvri. I'm a software engineer at VRI.
 - 👀 I’m interested in C#, Services and Web Apps
 - 🌱 I’m currently learning source generators
 - 💞️ I’m looking to collaborate on reverse engineering databases in the C# data models
