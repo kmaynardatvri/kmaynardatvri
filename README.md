@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kmaynardatvri
+- 👀 I’m interested in C#, Services and Web Apps
+- 🌱 I’m currently learning source generators
+- 💞️ I’m looking to collaborate on reverse engineering databases in the C# data models
+- 📫 I can be reached via email at kmaynard at vricares dot com
